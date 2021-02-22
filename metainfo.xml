@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<presentation guid="54D9CC2F-8284-42A4-8782-4C7714968A27" version="0" availableOffline="1">
+	<info>
+		<title>First Meeting-A1</title>
+		<description/>
+	</info>
+	<files index="id47" thumbnail="id80" totalSize="15985121">
+		<file id="id0">data/thmb1.png</file>
+		<file id="id1">data/slide1.js</file>
+		<file id="id2">data/slide1.css</file>
+		<file id="id3">data/thmb2.png</file>
+		<file id="id4">data/quiz1.js</file>
+		<file id="id5">data/quiz1/audios/snd-46b5b27f70eec85162aa606cb8ad006ca2388b6d.mp3</file>
+		<file id="id6">data/quiz1/audios/snd-c51cdfe4a1dd2d4fa5291f3a16cffe0d918e1386.mp3</file>
+		<file id="id7">data/quiz1/audios/snd-fa12f0848895128e12f49a0431f6c09e0c6d39b1.mp3</file>
+		<file id="id8">data/quiz1/fonts/fnt0.woff</file>
+		<file id="id9">data/quiz1/fonts/fnt1.woff</file>
+		<file id="id10">data/quiz1/fonts/fnt2.woff</file>
+		<file id="id11">data/quiz1/images/img-f9b61048e708afa41606c769974e6e493d9cee8f.png</file>
+		<file id="id12">data/quiz1/images/quiz_bg_0.jpg</file>
+		<file id="id13">data/thmb3.png</file>
+		<file id="id14">data/slide3.js</file>
+		<file id="id15">data/slide3.css</file>
+		<file id="id16">data/thmb4.png</file>
+		<file id="id17">data/quiz2.js</file>
+		<file id="id18">data/quiz2/fonts/fnt0.woff</file>
+		<file id="id19">data/quiz2/fonts/fnt1.woff</file>
+		<file id="id20">data/quiz2/images/img-01a76d65dd85e2baa58970726639fd9cad9c2fd8.png</file>
+		<file id="id21">data/quiz2/images/img-0f60807269c65bc0e2f45a3fb9f14a9dd841cf29.png</file>
+		<file id="id22">data/quiz2/images/img-10a8666305626a7193086c81bc8dd12f143c83f5.png</file>
+		<file id="id23">data/quiz2/images/img-15f971f55e3b7408557cf797c68085f03e75c4d0.png</file>
+		<file id="id24">data/quiz2/images/img-17c20a42eeed7eabee449aa91cbcb4268f93dd5c.png</file>
+		<file id="id25">data/quiz2/images/img-2c8be42dd18702c6de972f7d0943c76f114e2eec.png</file>
+		<file id="id26">data/quiz2/images/img-5d3295cf0e16cad37fba763fe8ee51b1b3aeb89e.png</file>
+		<file id="id27">data/quiz2/images/img-84b5ae345f273bcb8641e8f2714a59a35fc0fcbe.png</file>
+		<file id="id28">data/quiz2/images/img-951ca28310098efd33392edf5341ebfabdf1bfea.png</file>
+		<file id="id29">data/quiz2/images/img-c21466a4d98cd51385aa9fe149e6f3cdcc2121cf.png</file>
+		<file id="id30">data/quiz2/images/img-ca319041c1ccabfbf1ad9c94b4d8d30f1a2ea286.png</file>
+		<file id="id31">data/quiz2/images/img-f90b998d05444bd6276ce3d5bcba339022c9acfe.png</file>
+		<file id="id32">data/quiz2/images/img-f9b61048e708afa41606c769974e6e493d9cee8f.png</file>
+		<file id="id33">data/quiz2/images/quiz_bg_0.jpg</file>
+		<file id="id34">data/thmb5.png</file>
+		<file id="id35">data/slide5.js</file>
+		<file id="id36">data/slide5.css</file>
+		<file id="id37">data/thmb6.png</file>
+		<file id="id38">data/slide6.js</file>
+		<file id="id39">data/slide6.css</file>
+		<file id="id40">data/thmb7.png</file>
+		<file id="id41">data/quiz3.js</file>
+		<file id="id42">data/quiz3/fonts/fnt0.woff</file>
+		<file id="id43">data/quiz3/fonts/fnt1.woff</file>
+		<file id="id44">data/quiz3/images/img-f9b61048e708afa41606c769974e6e493d9cee8f.png</file>
+		<file id="id45">data/quiz3/images/quiz_bg_0.jpg</file>
+		<file id="id46">data/quizplayer.js</file>
+		<file id="id47">index.html</file>
+		<file id="id48">data/player.js</file>
+		<file id="id53">data/browsersupport.js</file>
+		<file id="id54">data/apple-touch-icon.png</file>
+		<file id="id55">data/favicon.ico</file>
+		<file id="id56">data/fnt0.woff</file>
+		<file id="id57">data/fnt1.woff</file>
+		<file id="id58">data/fnt10.woff</file>
+		<file id="id59">data/fnt11.woff</file>
+		<file id="id60">data/fnt12.woff</file>
+		<file id="id61">data/fnt13.woff</file>
+		<file id="id62">data/fnt2.woff</file>
+		<file id="id63">data/fnt3.woff</file>
+		<file id="id64">data/fnt4.woff</file>
+		<file id="id65">data/fnt5.woff</file>
+		<file id="id66">data/fnt6.woff</file>
+		<file id="id67">data/fnt7.woff</file>
+		<file id="id68">data/fnt8.woff</file>
+		<file id="id69">data/fnt9.woff</file>
+		<file id="id70">data/html5-unsupported.html</file>
+		<file id="id71">data/html5.png</file>
+		<file id="id72">data/img0.png</file>
+		<file id="id73">data/img1.png</file>
+		<file id="id74">data/img2.png</file>
+		<file id="id75">data/img3.png</file>
+		<file id="id76">data/img4.png</file>
+		<file id="id77">data/img5.png</file>
+		<file id="id78">data/img6.png</file>
+		<file id="id79">data/img7.png</file>
+		<file id="id80">data/ismplayer/preview.png</file>
+		<file id="id81">data/ismplayer/play.svg</file>
+		<file id="id82">data/ismplayer/style.css</file>
+		<file id="id83">data/ismplayer/style_mini.css</file>
+		<file id="id84">ismplayer.html</file>
+		<file id="id85">data/ismplayer/app_store2x.png</file>
+		<file id="id86">metainfo.xml</file>
+	</files>
+</presentation>
